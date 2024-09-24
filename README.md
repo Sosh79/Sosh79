@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [dc-tracker](https://github.com/Sosh79/dc-tracker)
 
-- 🌱 I’m currently learning **linux , python**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **next.js , mongodb**
 
