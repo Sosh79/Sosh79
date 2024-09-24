@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **next.js , mongodb**
 
-- 📫 How to reach me **saadsheknai79@gmail.com**
+- 📫 How to reach me **saadshekhani79@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
